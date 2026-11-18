@@ -74,7 +74,7 @@ C1–C8 是人工检查点，G1–G4 是自动质量门。评审要求修改时�
 在审论文（均为第一作者）：
 
 4. 【UTD24 / FT50 / ABS 4\*】 **Nan Wang**, Elkafi Hassini, Yufei Yuan, Yang Liu. How to Supervise AI Research Agents: A Human-in-the-loop Framework for Quality-Assured Scholarship. *Information Systems Research*.
-5. 【ABS 4 / SCI / JCR Q1】 **Nan Wang**, Yang Liu\*, Han Chen, Elkafi Hassini. Federated Sharp Regression Discontinuity: A Privacy-Preserving Causal Inference Across Data Islands. *European Journal of Operational Research*.
+5. 【ABS 3 / SCI / JCR Q1】 **Nan Wang**, Yang Liu\*, Elkafi Hassini, Han Chen. Federated Sharp Regression Discontinuity: Privacy-Preserving Causal Inference Across Data Islands. *Computers & Operations Research*.
 6. 【ABS 3 / SCI / JCR Q1】 **Nan Wang**, Yang Liu\*. Federated Causal Forest: Privacy-Preserving Estimation of Heterogeneous Treatment Effects. *Decision Support Systems*.
 7. 【SCI / INFORMS 旗下期刊】 **Nan Wang**, Elkafi Hassini, Yang Liu. Federated Branch-and-Price for Knapsack-Based Block-Angular Integer Programs. *INFORMS Journal on Computing*.
 
